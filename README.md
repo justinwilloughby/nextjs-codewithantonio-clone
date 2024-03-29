@@ -1,4 +1,11 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Purpose
+I've been interested in nextjs recently and codewithantonio on Youtube has been a great resource to learn. He builds out a lot of full stack clones like Miro, Duolingo, Twitch etc. I'm new to nextjs and this cloning technique seems like a great learning tool so I decided to mock up his landing page. There's no backend functionality, it's just the landing page. I learned a lot about page layouts an tailwind css.
+
+### Original
+![CodeWithAntonio](/public/CodeWithAntonio.png)
+
+### Mine
+![My Clone](/public/CodeWithJustin.png)
 
 ## Getting Started
 
